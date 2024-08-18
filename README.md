@@ -1,4 +1,4 @@
-# Text-To-Speech-Converter
+# Text To Speech Converter
 A simple and efficient Text-to-Voice Converter built using JavaScript and Web Speech API. This project takes a block of text input by the user and converts it into natural-sounding speech. It's a lightweight tool that can be easily integrated into web applications, offering an accessible experience for users who prefer audio content.
 
 # Features
