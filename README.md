@@ -16,3 +16,4 @@ A simple and efficient Text-to-Voice Converter built using JavaScript and Web Sp
 
 
 # OUTPUT
+![Screenshot 2024-08-19 004117](https://github.com/user-attachments/assets/b0a9a66e-a352-4562-9264-1563292b96fb)
